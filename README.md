@@ -62,8 +62,37 @@ Installation
 
 Clone the repository
 
-bashgit clone https://github.com/IT21754470/data-driven-Performance-Prediction-and-Development-in-Competitive-Swimming
+git clone: https://github.com/IT21754470/data-driven-Performance-Prediction-and-Development-in-Competitive-Swimming
 
 
 Run the application
+
+ How It Works
+Performance Prediction Workflow
+
+Collect swimmer's training and performance data
+Preprocess and normalize input data
+Apply ML models to predict race performance
+Generate visualizations and actionable insights
+
+Video Analysis Pipeline
+
+Capture multi-angle video of swimmer's technique
+Apply pose estimation to track key body points
+Analyze movement patterns and identify inefficiencies
+Provide feedback on technique improvements
+
+Training Recommendation Engine
+
+Analyze training load, recovery metrics, and sleep data
+Predict fatigue levels and potential performance improvement
+Generate personalized training recommendations
+Adapt training schedules based on actual progress
+
+🤝 Contributing
+We welcome contributions to SwimAnalytics! Please see our CONTRIBUTING.md for details on how to submit pull requests, report bugs, and suggest features.
+📝 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+📧 Contact
+Project Maintainer: Sathmini Subasinghe(IT21754470)
 
