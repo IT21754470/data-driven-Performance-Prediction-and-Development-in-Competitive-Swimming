@@ -1,7 +1,7 @@
 # data-driven-Performance-Prediction-and-Development-in-Competitive-Swimming
 
 # Project Overview
-SwimAnalytics is an intelligent system for performance prediction and technical analysis in competitive swimming using machine learning and data analytics. 
+Swim Analytics is an intelligent system for performance prediction and technical analysis in competitive swimming using machine learning and data analytics. 
 Our platform helps swimmers and coaches optimize training, prevent injuries, and improve race performance through advanced video analysis and personalized insights.
 
 Project ID: R25-031
@@ -62,7 +62,7 @@ Installation
 
 Clone the repository
 
-bashgit clone https://github.com/yourusername/SwimAnalytics.git
+bashgit clone https://github.com/IT21754470/data-driven-Performance-Prediction-and-Development-in-Competitive-Swimming
 
 
 Run the application
